@@ -1,6 +1,7 @@
 # Chapter 21: Social Network Analysis
 
 ## Connecting the dots to understand tourism
+## http://www.datascience-in-tourism.com/
 
 ***Rodolfo Baggio***
 * Bocconi University
